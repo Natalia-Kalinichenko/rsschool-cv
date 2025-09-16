@@ -1,9 +1,12 @@
 # Kalinichenko Natalia
 **Junior Fullstack Developer (PHP / JavaScript)**  
-📍 Petropavlovsk, Kazakhstan 
-📧 natalia.kalinichenko@email.com 
-[GitHub](https://github.com/Natalia-Kalinichenko) 
 
+***Contacts:***
+
+- **Address:** Petropavlovsk, Kazakhstan
+- **Phone:** +77057653851
+- **E-mail:** inunotensai137@gmail.com
+- **GitHub:** [Natalia-Kalinichenko](https://github.com/Natalia-Kalinichenko)
 ---
 
 ## Tech Skills
