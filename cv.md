@@ -1,11 +1,12 @@
-# 👩‍💻 Kalinichenko Natalia
+# Kalinichenko Natalia
 **Junior Fullstack Developer (PHP / JavaScript)**  
-📍 Petropavlovsk, Kazakhstan | 📧 natalia.kalinichenko@email.com  
-[GitHub](https://github.com/yourusername) *(add your GitHub link)*
+📍 Petropavlovsk, Kazakhstan 
+📧 natalia.kalinichenko@email.com 
+[GitHub](https://github.com/Natalia-Kalinichenko) 
 
 ---
 
-## 🧠 Tech Skills
+## Tech Skills
 
 - **Frontend:** HTML5, CSS3 (Flexbox, Grid), JavaScript (ES6+), jQuery, Bootstrap
 - **Backend:** PHP (procedural and basic OOP), form handling, sessions, routing
@@ -20,7 +21,7 @@
 **North Kazakhstan State University (NKSU)**  
 *Faculty of Information Technology*  
 *Specialization: Information Systems in Economics, Business, and Management*  
-*Graduation year: [Insert year]*
+
 
 ---
 
